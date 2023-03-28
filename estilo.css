@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    text-decoration: none;
+    width: 300px;
+    height: 34px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+.sign{
+    color: white;
+    background-color: black;
+    align-items: center;
+}
+.signG{
+    border: solid 1px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: x-small;
+}
+.izquierda{
+    display: flex;
+    flex-direction: column;
+    padding: 180px 190px;
+    background-color: white;
+    font-family: 'Alkatra', cursive;
+    line-height: 30px;
+}
+.derecha{
+    padding: 355px 90px 50px;
+    background-image: url(pexels-mikhail-nilov-9158481.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Alkatra', cursive;
+    line-height: 30px;
+    
+}
+.text{
+    color: white;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.icon{
+    margin-left: 305px;
+}
+.icon1{
+    margin-left: 330px;
+}
+.input{
+    width: 300px;
+    height: 32px;
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+    color: silver;
+}
+.remember{
+    justify-content: start;
+    margin: 0px 0px 0px 0px;
+}
+.hola1{
+    display: flex;
+}
+.small{
+    font-size: xx-large;
+}
+.blur{
+    border: 5%;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(50px);
+}
+
+.medio{
+    display: flex;
+    margin-bottom: -10px;
+}
+.lcdtm{
+    margin-left: 108px;
+}
+.chau{
+    margin-top: 18px;
+    margin-left: 57px;
+    color: silver;
+}
+.lct{
+    margin-top: 18px;
+    margin-left: 2px;
+}
